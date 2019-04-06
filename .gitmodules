@@ -1,0 +1,3 @@
+[submodule "notebooks/D3-in-Jupyter-Notebook"]
+	path = notebooks/D3-in-Jupyter-Notebook
+	url = https://github.com/jacobstallone/D3-in-Jupyter-Notebook.git
