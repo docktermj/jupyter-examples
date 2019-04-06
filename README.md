@@ -12,5 +12,5 @@
     git submodule add https://github.com/soxofaan/jupyter-playground.git
     git submodule add https://github.com/ResidentMario/py_d3.git
     git submodule add https://github.com/jrjohansson/scientific-python-lectures.git
-    git submodule add https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects.git    
+    git submodule add https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects.git
     ```
