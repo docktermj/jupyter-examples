@@ -1,9 +1,14 @@
 bokeh
+ipywidgets
+jupyter
 matplotlib
 networkx
+nodejs
 numpy
 pandas
 plotly
+scikit-learn
 seaborn
 sympy
 version_information
+watermark
