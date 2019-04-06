@@ -1,4 +1,9 @@
-configparser
-confluent-kafka
-psutil
-pika
+bokeh
+matplotlib
+networkx
+numpy
+pandas
+plotly
+seaborn
+sympy
+version_information
