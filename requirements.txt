@@ -1,4 +1,5 @@
 bokeh
+datashader
 ipywidgets
 jupyter
 matplotlib
