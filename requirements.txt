@@ -1,5 +1,6 @@
 bokeh
 datashader
+holoviews
 ipywidgets
 jupyter
 matplotlib
